@@ -1,0 +1,15 @@
+.gameContainer{
+    height: 620px;
+    width: 600px;
+    border: 4px solid teal;
+    border-radius: 20px;
+    justify-content: center;
+    background-color: rgb(185, 216, 218);
+    padding: 2%;
+    box-shadow: 4px 4px 4px #4f4f4f;
+    display: grid
+    ;grid-template-areas: 
+    "button button button"
+    "button button button"
+    "button button button";
+}
